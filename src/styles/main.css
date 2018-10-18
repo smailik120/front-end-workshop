@@ -99,21 +99,26 @@ body {
 
 .personal-info__text_bold {
     font-size:15px;
+    font-family: Arial;
 }
 .href-info {
     font-size:20px;
+    font-family: Arial;
 }
 .description {
     color: 	#A9A9A9;
     font-size:15px;
+    font-family: Arial;
 }
 .date {
     color: 	#A9A9A9;
     font-size:15px;
+    font-family: Arial;
 }
 .href-style {
-text-decoration:none;
-color:black;
+    text-decoration:none;
+    color:black;
+    font-family: Arial;
 }
 .footer {
     width:100%;
